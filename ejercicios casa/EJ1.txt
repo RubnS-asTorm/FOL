@@ -1,0 +1,31 @@
+Contratar a alguien con estas características:
+
+desarrollo de software
+pouca autonomia
+necesita supervision
+aptitudes altas
+pouca experiencia
+
+1-
+
+AREA -> 3
+GRUPO -> D
+NIVEL -> 3
+
+2-
+
+Taboa salarial -> retribución bruta anual 
+
+D/3 -> 17309,88
+
+3-
+
+Formación en alternancia - 60%
+
+17309/14 -> 1236,36 bruto mensual
+
+xornada de traballo efectiva 60% x 1236,36 = 741,82
+	I
+	L---> xornada de traballo efectiva sen convenio  -> 60% x 741,82 = 445,09 | 80% x 741,82 = 593,46
+
+60% x 1134 = 680,4€ como mínimo

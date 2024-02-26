@@ -1,0 +1,30 @@
+PAS ----> avisar       /  - Actuación primaria <=> explorar constantes vitais
+         L--> socorrer {					  L-----> RCP
+         L--> protexer  I  - Actuación secundaria -----> Queimaduras
+		  I                                      L-> Hemorraxias ( internas, externas, exteriorizada )
+		  \                                      L-> Fracturas
+
+RCR -> Reanimación Cardiorespiratoria
+
+PCR -> Parada Cardiorespiratoria
+
+RCP -> Reanimación Cardiopulmonar
+
+--------------------------------------------------------------------------------------------------------
+
+NORMATIVA LEGAL < ------ > Normas Puadas 
+			    I	L--> Sistematizar a xestión da prevención
+			    L--> ATE 2018
+			    L--> DANOS 2019: ISO 45001 
+
+LEI PREVENCION RISCOS LABORAIS (LPRL 1995)
+			I
+			L--> Art 16: "A PRL deberá ... no sistema xeral de xestión"
+							I
+							L Establecer Procedementos / Seguir un protocolo / Procesos
+							I
+							L Organizar / Ordenar / Planificar / Coordenar / ...
+
+
+
+

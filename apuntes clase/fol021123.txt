@@ -1,0 +1,56 @@
+				           		      	   UD3 " danos profesionais "
+					      	      /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\                     I
+              		               	UD2 " riscos laborais "		     I              / ---- AT (accidente no traballo)
+	       	          		 /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\ 				     I             / ----- EP (enfermidade profesional)
+        		UD1 " conceptos básicos "					     L-----------{
+  	  /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\        							     \ ----- Custo das AT e EP
+        perigo-----riscos----danos 							      \ ---- Estatistica da siniestralidade laboral
+                                I
+		    L MEDIDAS					        no tempo
+								           /     \
+								         /         \                        Presunción do accidente
+AT (accidente no traballo):        					       /             \                            como de traballo
+								     /                 \
+- normativa legal= concepto aberto por intereses afectados                   con ocasión --------- no lugar
+- supostos adicionais AT= - accidente in itinere.		  	       no traballo
+		          - accidentes cumprimento ordes ou 
+		            espontaneamente por bon funcionamento
+		            empresarial.
+		          - accidentes con ocasión desempeño cargo 
+		            sindical.
+		          - accidentes en actos socorro.
+		          - enfermidades non incluidas RD(real decreto) 
+                                        1299/2006.
+		          - enfermidades ou defectos anteriores accidentes 
+		            agravados consecuencia de aquel.
+		          - consecuencias lesivas derivadas de
+		            enfermidades intercorrentes.
+		          - imprudencia profesional derivada da confianza
+		            no traballo.
+		          - culpabilidade civil ou penal d@ empresari@,
+		            compañeir@ ou terceir@.
+- exclusións AT= - accidentes debidos a forza maior allea ao traballo --> rompe relacion causalidade
+	           - o dolo ou imprudencia temeraria d@ traballador/a
+- clasificacións das AT= - atendendo as causas=---------> Materiais -----> Defectos -------> EPIs
+					    I            		         L--> Instalacións
+					    I	               	         L--> Medio Ambiente
+					    I           		         L--> (...)
+					    L----> Humanas
+		       - atendendo as consecuencias=--------> Branco
+						L---> Con Baixa
+						L---> Sen Baixa
+						L---> Típico
+		       - atendendo a OIT=-------> Sistema Homoxéneo -------> Forma de Accidente    \
+					             		         L--> Axente Material           I
+					             		         L--> Parte Axente Material   }
+					             		         L--> Natureza lesión           I
+					             		         L--> Localización Lesión    /
+ORIXE DOS AT E TEORÍA DA CAUSALIDADE
+
+- Axiomática de causalidade --------> Principio causalidade natural -----> Non existen as milagres. Todo ten un por que natural
+                                             L---> Principio multicausalidade ------> Normalmente mais dunha causa está na orixe da AT
+                                             L---> Solucionar a causa principal da AT, podríase evitar o AT
+- Arbore de causas -----> Secuencia de feitos que desencadearon o AT
+		-----> 
+
+---------------------------------------------------------------------------

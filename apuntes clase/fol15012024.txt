@@ -1,0 +1,29 @@
+Dispositivos legais e regulamentarias
+
+Convenio colectivo (acordo empresari@s/traballad@res para regular condicions de traballo)
+
+Contrato traballo (acordo empresari@/traballad@r (2persoas) para regular condicions de traballo)
+
+Costume laboral (forma de traballar que se repite no tempo e nunha localdidade e profesión determinados (LEY NO ESCRITA, de 5-10años))
+
+-----------------------------------------------------------------------------
+
+Aplicación e interpretación das normas
+
+- principio de xerarquia -> rango superior prevalece		           \  Aplicacion
+						            }       en
+- principio orde normativo -> norma posterior derroga a anterior	           /       xeral
+	 I					                      I
+               xeral					     Civil|Penal|Mercantil|...
+	 I
+    Aplicación Laboral
+	 I
+               pero
+	 I	
+	 L Modulados por 2 fontes: convenio e contrato e novos ppios
+
+	            -- Normas en laboral -> Norma posterior derroga anterior
+					L Sempre? non -> Clausulas salvagarda
+						         -> Melloras contractuais
+
+- principio de condicion mais beneficiosa

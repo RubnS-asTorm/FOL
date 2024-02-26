@@ -1,0 +1,309 @@
+INTRODUCCIÓN
+
+La seguridad y la salud en el trabajo constituyen un logro por parte de los trabajadores, tanto o más importante que los conseguidos con reducciones de jornada, aumentos salariales y demás que nos puedan ocurrir. Es más, cuando nos referimos a mejoras en las condiciones laborales, muchas veces las asociamos única y exclusivamente a aumentos salariales. Nunca debemos olvidar que unas condiciones de trabajo dignas implican muchas más cosas: horarios que nos permitan conciliar nuestra vida laboral con la del personal, relaciones agradables con compañeros y superiores, realizar nuestras actividades de forma segura, higiénica,…
+
+Las conquistas sociolaborales conseguidas a lo largo del tiempo para dignificar las condiciones de trabajo (recogidas en derechos y deberes en las diferentes normativas) supusieron un duro esfuerzo por parte de otros trabajadores anónimos que, con relativa frecuencia, tuvieron que pagar un precio muy alto: los despidos. , acoso,... e incluso la muerte. Es vital que valoremos estas aportaciones en su justa medida y que no nos juguemos el cuello (ni permitamos que otros lo hagan por nosotros) porque al final solo tenemos uno y no nos pertenece en exclusiva , también es de @s que nos aman.
+
+A lo largo de esta unidad didáctica abordaremos los conceptos de trabajo, salud y la relación que existe entre estos [1] . De esa relación extraeremos una serie de riesgos inherentes a las condiciones en las que se realiza el trabajo y, ligadas a estos riesgos, diferentes disciplinas preventivas que intentarán eliminar, minimizar o, al menos, mitigar las consecuencias de su materialización. de riesgos laborales.
+
+(recomendacion lectura: las uvas de la ira)
+
+	trabajo: economico: dinero a consumir
+	                social: relacionarse con personas
+	                psicológico: realizarse como persona
+	                técnico: esfuerzo
+	                profesional
+	                . . .
+	                
+	Técnico----
+		I
+		----->esfuerzo físico
+		I
+		----->esfuerzo mental
+
+	Salud------------ Social
+		I
+		----- Física
+		I
+		----- Psicológica
+
+Salud es el estado completo de bienestarfisico, psicologico y social , non só a ausencia de enfermidade e doenzas 
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+é o traballo o que nos permite ter saude mais ao tempo, o ambiente no que se desenvolve, pode ser causa de ausencia de saude
+                                                          /--------> +
+Traballo------------------------> Saúde-
+     I      ----___                         T       \_____> -
+     I                 ----___               I
+     I                           ------>       I
+     LInformático------------->Ambiente
+                                                        I  / ------> elementos mecánicos, físicos, químicos, biolóxicos.
+                                                        L-------->        ´´   derivados da organización do traballo.
+                                                           \ ------>        ´´         ´´          das relacións da empresa.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Traballo----------------------------------------> Ambiente ou condicións traballo
+                                                                                                               I
+                                      Xeran <---Potencialmente perigoso <---- -procesos     \
+                                          I                                                               -activ              I     -condicions de hixiene
+                                         Y                                                               -operacións   I>  -condicions ergonómicas
+           actualizan <----- Riscos                                                         -equipas        I     -condicions de seguridade
+                  I                       I                                                               -productos    /
+                  I                       L Xenérico----------------> probabilidade e consecuencias
+                  I                       I                   ___----¨¨¨¨¨^                         +
+                  I                       L Grave e inminente--------> gravidade e inmediatez
+                  I                  
+     danos do traballo
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Prevención----------> dispoñer solucións para evitar que algo suceda
+
+Previr no ambito laboral--------> dispoñer actividades ou medidas en todos os departamentos da empresa para evitar que as condicions de traballo no causen dano
+
+Traballo-------->condicións de traballo
+                                     I
+                          /´´´´´´´´´´´´´´´´\
+                equilibrio        desequilibrio-----------> medidas/ actividades/ tecnicas preventivas
+                  saude                saude
+                       \___________/
+                                   I
+                                   L fisico, psiquico, social
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                                                  I - organización da tarefa 
+                                                                                  I - relacions
+condicions dervadas da organizacion do traballo{
+                                                                                  I - contido do traballo
+                                                                                  I - xornada de traballo 
+
+-----------------------------------------------------------------------------------------------------------
+
+                     materialización
+risco ------->           do            ----------> consecuencia
+             I               risco                I
+             I                                       I
+             I                                       I
+     prevencion                     protección
+
+-----------------------------------------------------------------------------------------------------------
+
++80dB = problema de saude
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+                                                        /-----> Seguridade
+                                                        I-----> Hixiene
+CONDICIONS MEDIAMBIENTE---------{
+         I                                              I-----> Ergonomía
+         I                                              \-----> Psicosocioloxía
+         I
+         L------> Perigos ---------------> Riscos -------X-------> Materialización do risco -------X--------> Consecuencias
+                                                                    T                                                     T                  (danos)
+                                                                    I                                                      I
+                                                                    I          /--> Tecnicas                         I
+                                                            Prevención---      médicas                  Protección
+                                                                              \--> Tecnicas
+                                                                                 non médicas
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Seguridade-----> Actua analizando/controlando riscos orixinados por máquinas, ferramentas, instalacións, superficies, etc...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+                                           hixiene no traballo
+                                                        I
+                                                    actúa
+                                                   /        \
+                         /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨/¨¨¨¨¨¨¨¨          ¨¨¨¨¨¨¨¨\¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\
+             identificando    cuantificando       valorando       corrixindo
+                         \_________\_______________/_________/
+                                                       I
+                                         riscos orixinados por
+                                                       I
+                             I¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨I¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨I
+                         Químicos           Físicos             Biolóxicos
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ergonomía-------> actua adaptando o medioambiente a persoa por medio de----------------> Deseño ambiente
+                                                                                                                     I
+                                                                                                                     L------> Proxecto equipos e instalacións
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Psicosocioloxía-----------> actua ----------->Analizando factores psicosociais asociados a:
+                                         I         L----> Contido do pdt
+                                         I         L----> Organización do traballo
+                                         I         L----> Características intrínsecas d@ traballador/a
+                                         I
+                                   previndo
+                                         I
+                            risco psicolóxico
+                                         I
+                               insatisfacción
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Formación-----> actua previndo actos inseguros-----------------> Formación no traballo
+                                                                         I
+                                                                         L----------> Formación nos centros educativos
+
+                                                                                                                           /--------------> Leis-------------\
+Política social---------> actua sobre ambiente social ditando ------------------------------------->--------> Disposicions------->------> nivel administración/empresa
+                                                                                                                           \------------> Medidas---------/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+                 /-->   legal
+normativa--{          vs            /----> Seguridade                                        I¨¨¨¨> Calidade (9001)
+                 \--> privada ----->{                                                                I
+                                          \----> Técnicas                                        ISO---> medio-ambiente (14001)
+                                                                                                          I
+                                                                                                          L__> Seguridade / Saúde Laboral (45001)
+
+
+dereitos específicos------> Dereito xeral: protección eficaz saúde
+                               I
+                               L--> Información
+                               I
+                               L--> Consulta e paticipación
+                               I
+                               L--> Paralizar a actividade
+                               I
+                               L--> Formación
+                               I
+                               L--> Vixianza da saúde
+
+obriga específica------------> Obriga xeral do traballador: protexerse
+                               I
+                               L--> uso axeitado do equipo de traballo
+                               I
+                               L--> uso axeitado de substancias e medios
+                               I
+                               L--> uso axeitado de equipos de protección
+                               I
+                               L--> non deshabilitar dispositivos e usalos correctamente
+                               I
+                               L--> informar de situcións de perigo
+                               I
+                               L--> colaborar e cooperar
+
+obriga xeral empresario----------> garantir seguridade dos traballadores
+                       I               I
+                       I               L----> integrar actividade preventiva
+                       I               I
+                       I               L----> plan de prevención
+                       I
+	               L----> obrigas específicas
+                       I
+ 	               I                                                     /----> Emerxencias
+	               L----> circunstancias especiales---{-----> R.G. inminente
+                           I                                                 \----> Coordenación actividades
+                           I
+                           I                                             /-----> traballadores sensibeis
+	                   L----> colectivos específicos-----{------> maternidade
+	                                                                 I-----> menores
+                                                                         \-----> temporais ou ett´s
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Riscos laborais
+¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
+
+
+atrapamentos--> lesions por elementos moviles das máquinas
+
+cortes--> lesións por ferramentas
+
+esmagamento--> lesións por envocadura vehículos
+
+ruido--> xordeira profesional
+
+inhalacións de sustancias--> asfixia
+
+insatisfaccion (traballos pouco esixentes)--> aburrimento, depresion, ...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+              ----------------ruido-------> son molesto --------> problema saúde a partir de 80dB
+              I                  L-----> provoca ------>alteracions fisicas
+              I                                          L--> " psicolóxicas
+              I                                          L--> " sociais
+              I
+         accións
+              I
+              L
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+				           		      	   UD3 " danos profesionais "
+					      	      /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\                     I
+              		               	UD2 " riscos laborais "		     I              / ---- AT (accidente no traballo)
+	       	          		 /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\ 				     I             / ----- EP (enfermidade profesional)
+        		UD1 " conceptos básicos "					     L-----------{
+  	  /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\        							     \ ----- Custo das AT e EP
+        perigo-----riscos----danos 							      \ ---- Estatistica da siniestralidade laboral
+                                I
+		    L MEDIDAS					        no tempo
+								            /   \
+								          /       \
+AT (accidente no traballo):        					        /           \
+								      /               \
+- normativa legal= concepto aberto por intereses afectados                      con ocasión___no lugar
+- supostos adicionais AT= - accidente in itinere		  	          no traballo
+		          - accidentes cumprimento ordes ou 
+		            espontaneamente por bon funcionamento
+		            empresarial.
+		          - accidentes con ocasión desempeño cargo 
+		            sindical.
+		          - accidentes en actos socorro.
+		          - enfermidades non incluidas RD(real decreto) 
+                                        1299/2006.
+		          - enfermidades ou defectos anteriores accidentes 
+		            agravados consecuencia de aquel.
+		          - consecuencias lesivas derivadas de
+		            enfermidades intercorrentes.
+		          - imprudencia profesional derivada da confianza
+		            no traballo.
+		          - culpabilidade civil ou penal d@ empresari@,
+		            compañeir@ ou terceir@.
+- exclusións AT= - accidentes debidos a forza maior allea ao traballo --> rompe relacion causalidade
+	           - o dolo ou imprudencia temeraria d@ traballador/a
+- clasificacións das AT= - atendendo as causas=---------> Materiais -----> Defectos -------> EPIs
+					    I            		         L--> Instalacións
+					    I	               	         L--> Medio Ambiente
+					    I           		         L--> (...)
+					    L----> Humanas
+		       - atendendo as consecuencias=--------> Branco
+						L---> Con Baixa
+						L---> Sen Baixa
+						L---> Típico
+		       - atendendo a OIT=-------> Sistema Homoxéneo -------> Forma de Accidente    \
+					             		         L--> Axente Material           I
+					             		         L--> Parte Axente Material   }
+					             		         L--> Natureza lesión           I
+					             		         L--> Localización Lesión    /
+ORIXE DOS AT E TEORÍA DA CAUSALIDADE
+
+- Axiomática de causalidade --------> Principio causalidade natural -----> Non existen as milagres. Todo ten un por que natural
+                                             L---> Principio multicausalidade ------> Normalmente mais dunha causa está na orixe da AT
+                                             L---> Solucionar a causa principal da AT, podríase evitar o AT
+- Arbore de causas -----> Secuencia de feitos que desencadearon o AT
+		-----> 
+
+---------------------------------------------------------------------------
+
+Custos integrais:  ---> custos de persoal
+	            ---> custos materiais
+	            ---> outros custos

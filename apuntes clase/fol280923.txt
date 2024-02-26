@@ -1,0 +1,67 @@
+                                                        /-----> Seguridade
+                                                        I-----> Hixiene
+CONDICIONS MEDIAMBIENTE---------{
+         I                                              I-----> Ergonomía
+         I                                              \-----> Psicosocioloxía
+         I
+         L------> Perigos ---------------> Riscos -------X-------> Materialización do risco -------X--------> Consecuencias
+                                                                    T                                                     T                  (danos)
+                                                                    I                                                      I
+                                                                    I          /--> Tecnicas                         I
+                                                            Prevención---      médicas                  Protección
+                                                                              \--> Tecnicas
+                                                                                 non médicas
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Seguridade-----> Actua analizando/controlando riscos orixinados por máquinas, ferramentas, instalacións, superficies, etc...
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+                                           hixiene no traballo
+                                                        I
+                                                    actúa
+                                                   /        \
+                         /¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨/¨¨¨¨¨¨¨¨          ¨¨¨¨¨¨¨¨\¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨\
+             identificando    cuantificando       valorando       corrixindo
+                         \_________\_______________/_________/
+                                                       I
+                                         riscos orixinados por
+                                                       I
+                             I¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨I¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨I
+                         Químicos           Físicos             Biolóxicos
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Ergonomía-------> actua adaptando o medioambiente a persoa por medio de----------------> Deseño ambiente
+                                                                                                                     I
+                                                                                                                     L------> Proxecto equipos e instalacións
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Psicosocioloxía-----------> actua ----------->Analizando factores psicosociais asociados a:
+                                         I         L----> Contido do pdt
+                                         I         L----> Organización do traballo
+                                         I         L----> Características intrínsecas d@ traballador/a
+                                         I
+                                   previndo
+                                         I
+                            risco psicolóxico
+                                         I
+                               insatisfacción
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Formación-----> actua previndo actos inseguros-----------------> Formación no traballo
+                                                                         I
+                                                                         L----------> Formación nos centros educativos
+
+                                                                                                                           /--------------> Leis-------------\
+Política social---------> actua sobre ambiente social ditando ------------------------------------->--------> Disposicions------->------> nivel administración/empresa
+                                                                                                                           \------------> Medidas---------/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

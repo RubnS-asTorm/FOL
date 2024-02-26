@@ -1,0 +1,15 @@
+Ht = Nt x Hs/dia x det= [Nt x Hs/dia x [365-48-48-30-12]] - 20000 Hs = ... Hs
+                              L________________I          I
+				           L 227
+
+Ht = horas traballadas
+Nt = numero traballadores
+Hs/dia = Horas/dia
+N = numero de accidentes
+Jt = jornadas perdidas por baja
+
+IF = [(N/Ht)]x10^6
+IG = [Jt/Ht]x10^3
+TI = [(N/Nt)] x 10^2
+IDM = (Jt)/N con baixa
+IS = [(Nt/(NxHt)]x10^5

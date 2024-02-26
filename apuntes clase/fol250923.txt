@@ -1,0 +1,18 @@
+                                                                                  I - organización da tarefa 
+                                                                                  I - relacions
+condicions dervadas da organizacion do traballo{
+                                                                                  I - contido do traballo
+                                                                                  I - xornada de traballo 
+
+-----------------------------------------------------------------------------------------------------------
+
+                     materialización
+risco ------->           do            ----------> consecuencia
+             I               risco                I
+             I                                       I
+             I                                       I
+     prevencion                     protección
+
+-----------------------------------------------------------------------------------------------------------
+
++80dB = problema de saude
